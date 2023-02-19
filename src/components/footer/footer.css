@@ -1,0 +1,29 @@
+footer {
+    display: flex;
+    flex-direction: column;
+	justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
+
+.attribution { 
+	text-align: center; 
+	font-size: 0.75rem; 
+}
+
+.attribution a { 
+	color: hsl(0, 0%, 30%); 
+	text-decoration: none;
+}
+.attribution a:hover {
+  	color: hsl(0, 0%, 50%);
+}
+
+.attribution p {
+  	margin-top: 0.5rem;
+}
+
+.attribution__icon {
+  	width: 1.3rem;
+  	height: 1.3rem;
+}
